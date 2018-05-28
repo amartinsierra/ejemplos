@@ -3,8 +3,8 @@ package depuración;
 public class CalculoSumatorio {
 
 	public static void main(String[] args) {
-		int a=100;
-		int b=60;
+		int a=400;
+		int b=50;
 		int suma=0;
 		int mayor, menor;
 		if(a>b) {
