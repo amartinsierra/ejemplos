@@ -1,0 +1,9 @@
+emoticonos de github:
+https://api.github.com/emojis
+
+Listado de comunidades de españa:
+https://apiv1.geoapi.es/comunidades?type=JSON&key=&sandbox=1
+
+Municipios de una comunidad por código de comunidad
+https://apiv1.geoapi.es/municipios?CPRO=28&type=JSON&key=&sandbox=1
+
